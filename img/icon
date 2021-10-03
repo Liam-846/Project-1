@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+
+	<link rel="canonical" href="https://www.remoteagency.com" />
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	<meta name="description" content="We break boundaries so that you can, too! As an award-winning digital marketing agency, we aim to make the impossible possible for you, your brand or cause." />
+	<meta name="author" content="REMOTE AGENCY by digidipity®" />
+
+	<meta property="og:title" content="REMOTE AGENCY: Marketing & digital media without borders" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://www.remoteagency.com" />
+	<meta property="og:image" content="https://remote.agency/remote-agency-logo.png" />
+	<meta property="og:site_name" content="REMOTE AGENCY" />
+	<meta property="og:description" content="We break boundaries so that you can, too! As an award-winning digital marketing agency, we aim to make the impossible possible for you, your brand or cause." />
+
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="REMOTE AGENCY: Marketing & digital media without borders" />
+	<meta name="twitter:description" content="We break boundaries so that you can, too! As an award-winning digital marketing agency, we aim to make the impossible possible for you, your brand or cause." />
+	<meta name="twitter:url" content="https://www.remoteagency.com" />
+	<meta name="twitter:image" content="https://remote.agency/remote-agency-logo.png" />
+
+	<title>REMOTE AGENCY: Marketing & digital media without borders</title>
+
+	<meta name="robots" content="index, follow" />
+
+	<!-- Scripts
+	====================================================== -->
+
+	<link rel="preload" href="css/fonts/font-icons.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="css/fonts/odudo-light.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="css/fonts/odudo-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<script src="js/plugins.js" defer></script>
+	<script id="dsq-count-scr" src="//remoteagency.disqus.com/count.js" defer></script>
+	<script src="https://cdn.jsdelivr.net/npm/typeit@5.10.7/dist/typeit.min.js"></script>
+
+	<!-- Stylesheet
+	====================================================== -->
+
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<!-- REMOTE AGENCY Favicon 
+	====================================================== -->
+
+	<link rel="icon" href="img/remote-marketing-agency-favicon.png" type="image/png" sizes="16x16" />
+	<link rel="apple-touch-icon" href="img/remote-agency-icon-iphone.png" /><!-- sizes="57x57" -->
+	<link rel="apple-touch-icon" sizes="76x76" href="img/remote-agency-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="img/remote-agency-icon-iphone-retina.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="img/remote-agency-icon-ipad-retina.png" />
+
+</head>
+
+<body class="stretched dark side-panel" data-loader-html=" ">
+
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		====================================================== -->
+		<header id="header" class="full-header">
+			<div id="header-wrap">
+				<div class="container clearfix">
+					<div id="primary-menu-trigger"><i class="icon-menu"></i></div>
+
+					<!-- REMOTE AGENCY Logo
+					====================================================== -->
+
+					<div id="logo">
+						<a href="https://www.remoteagency.com" class="standard-logo"><img src="img/remote-agency-logo-standard.png" alt="standard logo remote agency by digidipity" style="width: 84px; height: 84px" /></a>
+						<a href="https://www.remoteagency.com" class="retina-logo"><img src="img/remote-agency-logo-retina.png" alt="retina logo remote agency by digidipity" style="width: 84px; height: 84px" /></a>
+					</div>
+
+					<!-- Primary Navigation
+					====================================================== -->
+					<nav id="primary-menu" class="style-2">
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">
+							<li><a href="#" data-scrollto="#remote-agency" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">agency</a></li>
+							<li><a href="#" data-scrollto="#remote-work" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">work</a></li>
+							<li><a href="#" data-scrollto="#remote-services" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">services</a></li>
+							<li><a href="https://www.remoteagency.com/blog#remote-blog">blog</a></li>
+							<li><a href="#" data-scrollto="#remote-jobs" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">jobs</a></li>
+							<li><a href="#" data-scrollto="#remote-ready" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">contact</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+
+			<!-- Nav Wrapper
+			====================================================== -->
+
+			<div class="nav-wrapper">
+ 				<div class="sl-nav">
+					<ul>
+						<li><img src="img/remote-agency-flag-united-states-18.png" alt="united states country flag in a square format for the english or en language version" /><i class="fa fa-angle-down" aria-hidden="true"></i>
+							<div class="triangle"></div>
+							<ul>
+								<li><a href="https://www.remoteagentur.de"><span>de &#160;</span><img src="img/remote-agency-flag-germany-15.png" alt="german website version of our remote digital marketing and creative design agency aka remote agency" /></a></li>
+								<li><a href="https://www.remoteagency.gr"><span>el &#160;</span><img src="img/remote-agency-flag-greece-15.png" alt="greek website version of our remote digital marketing and creative design agency aka remote agency" /></a></li>
+							</ul>
+						</li>
+					</ul>
+ 				</div>
+			</div>
+
+			<!-- Top Buttons
+			====================================================== -->
+
+			<div id="insta-us">
+				<a href="https://www.instagram.com/remoteagency/" target="_blank" rel="noreferrer" class="social-icon si-borderless si-instagram" onclick="ga('send', 'event', 'social', 'instagram-top')">
+					<i class="icon-instagram"></i>
+					<i class="icon-instagram"></i>
+				</a>
+			</div>
+
+			<div id="email-us">
+				<a href="#" class="social-icon si-borderless si-email side-panel-trigger">
+					<i class="icon-email"></i>
+					<i class="icon-email"></i>
+				</a>
+			</div>
+
+			<div id="chat-with-us">
+				<a href="https://wa.me/493020654715" target="_blank" rel="noreferrer" class="social-icon si-borderless si-whatsapp" onclick="ga('send', 'event', 'connect', 'whats-top')">
+					<i class="icon-whatsapp"></i>
+					<i class="icon-whatsapp"></i>
+				</a>
+			</div>
+
+			<div id="call-us">
+				<a href="tel:+493020654715" class="social-icon si-borderless si-phone" onclick="ga('send', 'event', 'connect', 'phone-top')">
+					<i class="icon-phone"></i>
+					<i class="icon-phone"></i>
+				</a>
+			</div>
+
+		</header>
+
+		<!-- Slider
+		====================================================== -->
+
+		<section id="slider" class="slider-element slider-parallax full-screen force-full-screen">
+			<div class="slider-parallax-inner">
+				<div class="full-screen force-full-screen dark section nopadding nomargin noborder ohidden">
+					<div class="container center">
+						<div class="vertical-middle ignore-header">
+							<div class="emphasis-title">
+								<h1 id="type-it"></h1>
+
+								<script>
+									new TypeIt("#type-it", {
+										startDelay: 3000,
+										speed: 77,
+										cursorChar: "_",
+										lifeLike: true,
+										breakLines: true,
+										loop: true,
+										autoStart: false,
+									})
+									.type("we break boundaries")
+									.pause(1800)
+									.delete()
+									.pause(888)
+									.type("so that you can, too")
+									.pause(2200)
+									.delete()
+									.pause(888)
+									.type("the agency without offices")
+									.pause(2200)
+									.delete()
+									.pause(888)
+									.type("for marketing without borders")
+									.pause(2600)
+									.delete()
+									.pause(888)
+									.options({speed: 105})
+									.type("#")
+									.pause(280)
+									.type("remote")
+									.pause(200)
+									.type("agency")
+									.pause(999999)
+									.go();
+								</script>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="video-wrap no-placeholder">
+						<video id="slider-video" poster="img/remote-agency-world-map.jpg" preload="auto" loop muted autoplay playsinline>
+							<source src='img/remote-agency-world-map.mp4' type='video/mp4' />
+						</video>
+						<div class="video-overlay" style="background-color: rgba(0,0,0,0.38)"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- REMOTE AGENCY
+		====================================================== -->
+
+		<section id="agency">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center agency-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-agency"></a>
+					<h4>REMOTE AGENCY</h4>
+					<h1 style="padding-top: 10px">what if marketing knew no borders?</h1>
+				</div>
+			</div>
+
+			<div class="container clearfix">
+				<div class="col_half col_last nomargin">
+					<div class="emphasis-title" style="padding-top: 0px">
+						<h2>boundless<br />efficiency</h2>
+					</div>
+					<p>Time is money—and often we don’t have either to spare. Harnessing the <a href="https://www.remoteagency.com/blog/remote-agency-benefits">benefits of remote work</a> and most recent technologies, we produce more output with far less input. Collaboration and communication have never been more <a href="https://www.remoteagency.com/blog/remote-agency-benefits#efficiency-at-its-finest">efficient and cost effective</a>!</p>
+				</div>
+				<div class="col_half nomargin center">
+					<img src="img/remote-agency-graphic-efficiency.png" alt="graphic of analog stopwatch clock and bundles of us dollars for efficiency and saving time and money" data-animate="fadeInLeft" />
+				</div>
+			</div>
+
+			<div class="container clearfix">
+				<div class="col_half nomargin">
+					<div class="emphasis-title" style="padding-top: 30px">
+						<h2>boundless<br />talent</h2>
+					</div>
+					<p>Our remote design agency <a href="https://www.remoteagency.com/blog/remote-agency-benefits#top-talent-for-top-results">hires for talent</a>—not location. Working with the best of the best in their respective fields has resulted in a team that knows no boundaries. A team that has consistently produced <a href="#" data-scrollto="#remote-work" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">award-winning work</a> with measurable impact and results.</p>
+				</div>
+				<div class="col_half col_last nomargin">
+					<div class="emphasis-title" style="padding-top: 30px">
+						<h2>boundless<br />potential</h2>
+					</div>
+					<p>We believe digital marketing, advertising & PR are better without borders. Spanning multiple continents, languages, cultures and time zones, we execute highly complex and time critical projects with rare accuracy, immediacy and reliability.</p>
+				</div>
+			</div>
+
+			<div class="container clearfix">
+				<div class="col_half nomargin">
+					<div class="emphasis-title" style="padding-top: 30px">
+						<h2>boundless<br />opportunities</h2>
+					</div>
+					<p>We don’t just love what we do—we live it! Helping NGOs catalyze real world change and providing innovative and creative solutions to the humanitarian and environmental challenges of our time allows us to shape a better world and future for all of us.</p>
+				</div>
+				<div class="col_half center col_last nomargin" style="padding-top: 26px; padding-bottom: 79px">
+				<img src="img/remote-agency-graphic-opportunities.png" alt="graphic of planet earth with light bulb to symbolize environmental impact through charities and ngos" data-animate="fadeInRight" />
+				</div>
+			</div>
+		</section>
+
+		<!-- Remote News (Newsletter)
+		============================================= -->
+
+		<section id="newsletter">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center news-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-news"></a>
+					<h4>REMOTE NEWS</h4>
+					<h1 style="padding-top: 10px">a monthly roundup of all things remote</h1>
+				</div>
+
+				<div class="widget-subscribe-form-result" style="padding-top: 60px; padding-bottom: 24px">
+					<form action="https://remoteagency.us18.list-manage.com/subscribe/post?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+						<div id="mc_embed_signup_scroll">
+							<div class="input-group input-group-lg divcenter" style="max-width:435px">
+								<input type="email" value="" placeholder="email address" name="EMAIL" class="form-control required email" id="mce-EMAIL" />&#160;<input type="submit" onclick="ga('send', 'event', 'sign-up', 'news-top')" id="mc-embedded-subscribe" class="btn btn-primary" value="subscribe" />
+							</div>
+						</div>
+						<div id="mce-responses" class="clear">
+							<div class="response" id="mce-error-response" style="display:none"></div>
+							<div class="response" id="mce-success-response" style="display:none"></div>
+						</div>
+						<div style="position: absolute; left: -5000px" aria-hidden="true">
+							<input type="text" name="b_2c84607c8fa3397afd2d88c54_50c800f9ee" tabindex="-1" value="" />
+						</div>
+						<div class="clear"></div>
+					</form>
+				</div>
+			</div>
+		</section>
+
+		<!-- Remote Work
+		============================================= -->
+
+		<section id="work">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center dark work-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-work"></a>
+					<h4>REMOTE WORK</h4>
+					<h1 style="padding-top: 10px">remote + agency = more success faster</h1>
+				</div>
+				<div class="container block center">
+					<p class="divcenter center dark" style="max-width: 800px; padding-top: 50px; padding-bottom: 6px">Our remote marketing agency team is proud to have worked with renowned brands and charities including the <a href="https://www.bbc.com" target="_blank" rel="noreferrer">BBC</a>, <a href="https://www.misereor.org" target="_blank" rel="noreferrer">Misereor</a>, <a href="https://www.porsche.com/usa/" target="_blank" rel="noreferrer">Porsche</a> and <a href="https://www.siemens.com" target="_blank" rel="noreferrer">Siemens</a>. Whether you represent a local business, a start-up, a Fortune 500 corporation or an NGO, it is time to <a href="#" data-scrollto="#remote-ready" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">break boundaries</a>!<br /><br /></p>
+
+					<div class="container block center table-responsive" style="max-width: 800px; padding-bottom: 6px">
+						<table class="table">
+							<tbody>
+							<tr>
+								<td><a href="https://www.instagram.com/p/CNGAsk3jGww/?igshid=zz95mj8wgwqt" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0054.jpg" alt="empty and illuminated outdoor swimming pool of greek luxury hotel in pyrgiotika nafplio during summer vacation" data-animate="fadeIn" /></a></td>
+								<td><a href="https://www.instagram.com/p/CNC-3uujHsp/?igshid=nsab6sbm89al" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0053.jpg" alt="illuminated romantic swimming pool of perivoli country hotel and retreat in nafplio under magnificent starry night sky" data-animate="fadeIn" data-delay="180" /></a></td>
+								<td><a href="https://www.instagram.com/p/CNAlf9djZCR/?igshid=ew6lj9z71qd9" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0052.jpg" alt="beautifully lit architecture of luxury and country hotel perivoli in nafplio with restaurant next to the swimming pool" data-animate="fadeIn" data-delay="360" /></a></td>
+							</tr>
+							<tr>
+								<td><a href="https://www.instagram.com/p/CM7hk0pjjdl/?igshid=v30krdgvlhmu" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0051.jpg" alt="visual chart showing growth and rise of remote work and share of wfh people working from home or working remotely" data-animate="fadeIn" data-delay="540" /></a></td>
+								<td><a href="https://www.instagram.com/p/CM5AulHDR4r/?igshid=1670t6umzguxc" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0050.jpg" alt="swimming pool of luxury hotel in the peloponnese with idyllic and romantic lights during starry night with moonlight" data-animate="fadeIn" data-delay="720" /></a></td>
+								<td><a href="https://www.instagram.com/p/CM2ipFvj7N9/?igshid=1so9y8yau9hp" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-img')" class="img-wrap grayscale"><img src="img/remote-digital-agency-0049.jpg" alt="visual chart showing how remote work and home office or working remotely have skyrocketed to shape better future of work" data-animate="fadeIn" data-delay="900" /></a></td>	
+							</tr>
+							</tbody>
+						</table>
+					</div>
+					<p style="padding-bottom: 14px"><br /><a href="https://www.instagram.com/remoteagency/" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'instagram-mid')">Visit us on Instagram</a>, take a peek at our <a href="https://www.indigoawards.com/winners/2500" target="_blank" rel="noreferrer">latest awards</a> and <a href="https://remoteagency.us18.list-manage.com/subscribe?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'sign-up', 'news-mid')">subscribe to our newsletter(s)</a>!</p>			
+				</div>
+			</div>
+		</section>
+
+		<!-- REMOTE AGENCY Services
+		============================================= -->
+
+		<section id="services">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center services-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-services"></a>
+					<h4>REMOTE SERVICES</h4>
+					<h1 style="padding-top: 10px">digital marketing and advertising reinvented</h1>
+				</div>
+
+				<div class="container clearfix">
+					<div class="row grid-container" style="overflow: visible; padding-top: 60px" data-layout="masonry">
+
+						<div class="col-sm-6 mb-4">
+							<div class="flip-card text-center top-to-bottom">
+								<div class="flip-card-front dark" data-height-xl="280">
+									<div class="flip-card-inner">
+										<div class="card nobg noborder text-center">
+											<div class="card-body">
+												<i class="icon-angle-down infinite animated fadeInDown"></i>
+												<h2 class="card-title" style="font-size: 60px">branding</h2>
+												<i class="icon-angle-up infinite animated fadeInUp"></i>																
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back" data-height-xl="280">
+									<div class="flip-card-inner">
+										<p>We find unique names for unique ideas, secure the domain(s) for you, develop a strategy to attract and engage your target audience and create a distinctive brand identity (corporate identity, corporate design, logo, website and stationery such as business cards).</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 mb-4">
+							<div class="flip-card text-center top-to-bottom">
+								<div class="flip-card-front dark" data-height-xl="280">
+									<div class="flip-card-inner">
+										<div class="card nobg noborder text-center">
+											<div class="card-body">
+												<i class="icon-angle-down infinite animated fadeInDown"></i>
+												<h2 class="card-title" style="font-size: 60px">marketing</h2>
+												<i class="icon-angle-up infinite animated fadeInUp"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back" data-height-xl="280">
+									<div class="flip-card-inner">
+										<p>To maximize your reach to your potential customers, we produce integrated cross-media campaigns and leverage the potential of digital marketing, including social media and email marketing (newsletter), SEO, SEA (Google Ads), Google Analytics and a lot more.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 mb-4">
+							<div class="flip-card text-center top-to-bottom">
+								<div class="flip-card-front dark" data-height-xl="280">
+									<div class="flip-card-inner">
+										<div class="card nobg noborder text-center">
+											<div class="card-body">
+												<i class="icon-angle-down infinite animated fadeInDown"></i>
+												<h2 class="card-title" style="font-size: 60px">media</h2>
+												<i class="icon-angle-up infinite animated fadeInUp"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back" data-height-xl="280">
+									<div class="flip-card-inner">
+										<p>Good storytelling makes the difference between an average campaign and one that gets shared millions of times. We tell stories in a compelling, original way through promotional or explanatory videos, 2D & 3D animations, corporate films as well as <a href="https://www.youtube.com/remoteagency" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'social', 'youtube-sum')">YouTube</a> clips.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 mb-4">
+							<div class="flip-card text-center top-to-bottom">
+								<div class="flip-card-front dark" data-height-xl="280">
+									<div class="flip-card-inner">
+										<div class="card nobg noborder text-center">
+											<div class="card-body">
+												<i class="icon-angle-down infinite animated fadeInDown"></i>
+												<h2 class="card-title" style="font-size: 60px">and more</h2>
+												<i class="icon-angle-up infinite animated fadeInUp"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back" data-height-xl="280">
+									<div class="flip-card-inner">
+										<p>Our remote digital agency team is distributed across geographies. We have been successfully collaborating like this for years and we love sharing our experiences to help you become <a href="https://www.remoteagency.com/blog/remote-dictionary-glossary#remote-by-default">remote by default</a>, too. <a href="https://www.remoteagency.com/blog">Our blog</a> also offers helpful tips on <a href="https://www.remoteagency.com/blog/remote-agency-challenges">how to make remote work</a>!</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Remote Blog
+		============================================= -->
+
+		<section id="blog">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center dark blog-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-blog"></a>
+					<h4>REMOTE BLOG</h4>
+					<h1 style="padding-top: 10px">shaping a better tomorrow for all</h1>
+				</div>
+				<div class="container block center">
+					<p class="divcenter center dark" style="max-width: 800px; padding-top: 51px"><a href="https://www.remoteagency.com/blog">Our blog</a> is a place for discussion and exchange. It is only by sharing best practices and transferring knowledge that we can create a better future of work. <a href="https://www.remoteagency.com/blog">Join the conversation!</a> Not the right time? <a href="https://remoteagency.us18.list-manage.com/subscribe?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'sign-up', 'news-mid')">Use our blog post alert</a> and be the first to hear about future articles!<br /><br /></p>
+				</div>
+
+				<div class="container clearfix" style="max-width: 800px">
+					<div class="row clearfix">
+
+						<div class="entry col-sm-6 col-12 nomargin" style="padding-top: 6px">
+							<div class="grid-inner">
+								<div class="entry-image">
+									<a href="https://www.remoteagency.com/blog/remote-dictionary-glossary" class="img-wrap pop2" data-animate="fadeIn"><img src="img/20/12/remote-dictionary-glossary-thumbnail.jpg" alt="illustration of gift box with ribbon and dictionary book present for work from home and home office" /></a>
+								</div>
+								<div class="entry-title">
+									<h5><a href="https://www.remoteagency.com/blog/remote-dictionary-glossary">remote glossary: dictionary of remote work and agency terms</a></h5>
+									<h4 style="font-size: 15px; padding-bottom: 19px"><br /><i class="icon-calendar"></i> DEC 18, 2020 &#160;·&#160; <i class="icon-clock"></i> 20 MIN &#160;·&#160; <i class="icon-comment"></i> <a href="https://www.remoteagency.com/blog/remote-dictionary-glossary#disqus_thread">remote digital agency</a></h4>
+								</div>
+							</div>
+						</div>
+
+						<div class="entry col-sm-6 col-12 nomargin" style="padding-top: 6px">
+							<div class="grid-inner">
+								<div class="entry-image">
+									<a href="https://www.remoteagency.com/blog/remote-agency-benefits" class="img-wrap pop" data-animate="fadeIn" data-delay="180"><img src="img/20/08/remote-agency-benefits-thumbnail.jpg" alt="illustration of laptop desk by day and night in remote work from home office workspace environment" /></a>
+								</div>
+								<div class="entry-title">
+									<h5><a href="https://www.remoteagency.com/blog/remote-agency-benefits">what is a remote agency? ten benefits for employees and clients</a></h5>
+									<h4 style="font-size: 15px; padding-bottom: 19px"><br /><i class="icon-calendar"></i> AUG 22, 2020 &#160;·&#160; <i class="icon-clock"></i> 25 MIN &#160;·&#160; <i class="icon-comment"></i> <a href="https://www.remoteagency.com/blog/remote-agency-benefits#disqus_thread">remote marketing agency</a></h4>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Remote Jobs
+		============================================= -->
+
+		<section id="jobs">
+			<div class="section dark nobg nomargin">
+				<div class="container heading-block center dark jobs-width" style="padding-top: 20px">
+					<a class="anchor" id="remote-jobs"></a>
+					<h4>REMOTE JOBS</h4>
+					<h1 style="padding-top: 10px">work is not a place, work is what we do</h1>
+				</div>
+				<div class="container block center">
+					<p class="divcenter center dark" style="max-width: 800px; padding-top: 51px; padding-bottom: 14px">Don’t miss out on our latest remote jobs! Since you have made it this far, it is likely that you will enjoy working here. And by <i>here</i>, we mean wherever you are. We fundamentally believe that work should be something we love to do, not somewhere we have to go.<br /><br />At present, we do not have any remote job openings. <a href="https://remoteagency.us18.list-manage.com/subscribe?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'sign-up', 'news-mid')">Sign up to our agency newsletter</a> or use our <a href="#" class="side-panel-trigger">contact form</a> and send us links to your best work/CV. No attachments please.<br /></p>
+				</div>
+			</div>
+		</section>
+
+		<!-- Remote-Ready (Contact)
+		============================================= -->
+
+		<section id="contact">
+			<div class="section dark nobg nomargin">
+				<div class="container clearfix" style="padding-top: 20px; padding-bottom: 22px">
+					<div class="container heading-block center ready-width" style="padding-top: 0px">
+						<a class="anchor" id="remote-ready"></a>
+						<h4>REMOTE-READY?</h4>
+						<h1 style="padding-top: 10px">there where and when you need us</h1>
+					</div>
+					<div class="row clear-bottommargin">
+						<div class="container block center" style="padding-top: 51px; padding-bottom: 75px">
+						<p class="divcenter center dark" style="max-width: 800px">We are here to break boundaries and make the impossible possible for you! Get in touch with us or kindly <a href="#" class="side-panel-trigger">request a free consultation</a> or an instant quote through our <a href="#" class="side-panel-trigger">contact form</a>.</p>
+						</div>
+
+						<div class="col-lg-3 col-md-6 clearfix" style="padding-bottom: 52px">
+							<div class="feature-box fbox-center fbox-bg fbox-plain nomargin">
+								<div class="fbox-icon">
+									<a href="#" class="side-panel-trigger"><i class="icon-email"></i></a>
+								</div>
+								<h5 style="font-size: 26px; padding-top: 17px; padding-bottom: 6px; color: #888888">email us</h5>
+								<h6><span class="subtitle"><a href="#" class="side-panel-trigger">contact form</a></span></h6>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 clearfix" style="padding-bottom: 52px">
+							<div class="feature-box fbox-center fbox-bg fbox-plain nomargin">
+								<div class="fbox-icon">
+									<a href="https://wa.me/493020654715" target="_blank" rel="noreferrer"><i class="icon-whatsapp" onclick="ga('send', 'event', 'connect', 'whats-bot')"></i></a>
+								</div>
+								<h5 style="font-size: 26px; padding-top: 17px; padding-bottom: 6px; color: #888888">chat with us</h5>
+								<h6><span class="subtitle" onclick="ga('send', 'event', 'connect', 'whats-bot')"><a href="https://wa.me/493020654715" target="_blank" rel="noreferrer">whatsapp</a></span></h6>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 clearfix" style="padding-bottom: 52px">
+							<div class="feature-box fbox-center fbox-bg fbox-plain nomargin">
+								<div class="fbox-icon">
+									<a href="tel:+493020654715"><i class="icon-phone" onclick="ga('send', 'event', 'connect', 'phone-bot')"></i></a>
+								</div>
+								<h5 style="font-size: 26px; padding-top: 17px; padding-bottom: 6px; color: #888888">call us</h5>
+								<h6><span class="subtitle" onclick="ga('send', 'event', 'connect', 'phone-bot')"><a href="tel:+493020654715">+49 30 20654715</a></span></h6>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 clearfix" style="padding-bottom: 52px">
+							<div class="feature-box fbox-center fbox-bg fbox-plain nomargin">
+								<div class="fbox-icon">
+									<a href="https://www.instagram.com/remoteagency/" target="_blank" rel="noreferrer"><i class="icon-heart" onclick="ga('send', 'event', 'social', 'instagram-bot')"></i></a>
+								</div>
+									<h5 style="font-size: 26px; padding-top: 17px; padding-bottom: 5px; color: #888888">connect with us</h5>
+								<div style="display: flex; justify-content: center; padding-top: 0px; padding-bottom: 5px">
+									<a href="https://www.instagram.com/remoteagency/" target="_blank" rel="noreferrer" class="social-icon si-medium si-borderless si-instagram" onclick="ga('send', 'event', 'social', 'instagram-bot')">
+										<i class="icon-instagram"></i>
+										<i class="icon-instagram"></i>
+									</a>
+									<a href="https://www.youtube.com/remoteagency" target="_blank" rel="noreferrer" class="social-icon si-medium si-borderless si-youtube" onclick="ga('send', 'event', 'social', 'youtube-sum')">
+										<i class="icon-youtube"></i>
+										<i class="icon-youtube"></i>
+									</a>
+									<a href="https://www.linkedin.com/company/remoteagency" target="_blank" rel="noreferrer" class="social-icon si-medium si-borderless si-linkedin" onclick="ga('send', 'event', 'social', 'linkedin-sum')">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
+									</a>
+									<a href="https://remoteagency.us18.list-manage.com/subscribe?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" target="_blank" rel="noreferrer" class="social-icon si-medium si-borderless si-news" onclick="ga('send', 'event', 'sign-up', 'news-bot')">
+										<i class="icon-news"></i>
+										<i class="icon-news"></i>
+									</a>
+								</div>
+							</div>
+						</div>							
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- REMOTE AGENCY Footer
+		============================================= -->
+
+		<section id="sitemap">
+			<footer id="copyrights" class="dark" style="padding-top: 76px; padding-bottom: 74px">
+				<div class="footer-widgets-wrap center clearfix">
+					<a href="https://www.remoteagency.com/blog/remote-dictionary-glossary#digidipity"><img src="img/remote-agency-by-digidipity-footer.png" width="220" alt="grayed out remote agency by digidipity logo in the footer of the website" /></a>
+					<p style="font-size: 15.4px; padding-top: 8px"><a href="https://www.behance.net/gallery/92155325/digidipity-branding-EN" target="_blank" rel="noreferrer" style="color: #666666" onclick="ga('send', 'event', 'social', 'behance')"><i>hidden secrets behind our logo</i></a></p>
+					<div class="clearfix" style="padding-top: 30px"></div>
+					<p style="font-size: 18px"><a href="https://www.remoteagency.com" style="color: #888888">home</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-agency" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">agency</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-work" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">work</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-services" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">services</a><br /><a href="https://www.remoteagency.com/blog" style="color: #888888">blog</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-jobs" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">jobs</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-news" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">newsletter</a> &#160;·&#160; <a href="pdf/digidipity-disclaimer.pdf" style="color: #888888" target="_blank">disclaimer</a><br /><a href="https://www.remoteagency.com/imprint" style="color: #888888">imprint</a> &#160;·&#160; <a href="pdf/digidipity-privacy.pdf" style="color: #888888" target="_blank">privacy</a> &#160;·&#160; <a href="pdf/digidipity-terms.pdf" style="color: #888888" target="_blank">terms</a> &#160;·&#160; <a href="#" style="color: #888888" data-scrollto="#remote-ready" data-easing="easeInOutExpo" data-speed="3800" data-offset="0">contact</a><br /><br /><a href="https://www.remoteagency.com/imprint" style="color: #888888">© 2018–<script>document.write(new Date().getFullYear())</script> REMOTE AGENCY<br />by digidipity<sup>®</sup>. All rights reserved.</a></p>
+				</div>		
+			</footer>
+		</section>
+
+		<!-- Go To Top
+		============================================= -->
+
+		<div id="gotoTop" class="icon-angle-up" data-easing="easeInOutExpo" data-speed="3800" data-mobile="false"></div>
+
+		<!-- Side Panel
+		====================================================== -->
+
+		<div class="body-overlay"></div>
+		<div id="side-panel" class="dark">
+			<div id="side-panel-trigger-close" class="side-panel-trigger"><a href="#"></a></div>
+			<div class="side-panel-wrap">
+				<div class="widget widget_links clearfix">
+					<div class="widget quick-contact-widget noborder notoppadding clearfix">
+						<div class="widget clearfix center" style="padding-top: 44px; padding-bottom: 10px">
+							<a href="https://www.remoteagency.com/blog/remote-dictionary-glossary#digidipity"><img src="img/remote-agency-by-digidipity-form.png" width="200" alt="grayed out remote agency by digidipity logo in the side panel of the website" /></a>
+						</div>
+						<div class="widget quick-contact-widget clearfix" style="padding-top: 44px">
+							<h6 style="font-size: 21px"><a>&#160;contact form</a></h6>
+							<div class="quick-contact-form-result" style="padding-top: 20px"></div>
+							<form id="quick-contact-form" name="quick-contact-form" action="php/quickcontact.php" method="post" class="quick-contact-form nomargin">
+								<div class="form-process"></div>
+								<input type="text" class="required sm-form-control input-block-level" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="name" />
+								<input type="text" class="required sm-form-control email input-block-level" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="email address" />
+								<select class="required sm-form-control" id="quick-contact-form-selection" name="quick-contact-form-selection" >
+									<option value="">select subject</option>
+									<option value="Consultation">free consultation</option>
+									<option value="Quote">instant quote</option>
+									<option value="Application">job application</option>
+									<option value="General">other inquiry</option>
+								</select>
+								<textarea class="required sm-form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="12" placeholder="message"></textarea>
+								<input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
+								<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-light" value="submit" onclick="ga('send', 'event', 'submit', 'form-index')">send</button>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="widget quick-contact-widget clearfix" style="padding-top: 35px">
+					<h6 style="font-size: 21px"><a>&#160;connect with us</a></h6>
+					<div style="display: flex; justify-content: left; padding-top: 11px">
+						<a href="https://www.instagram.com/remoteagency/" target="_blank" rel="noreferrer" class="social-icon si-small si-borderless si-instagram" onclick="ga('send', 'event', 'social', 'instagram-mid')">
+							<i class="icon-instagram"></i>
+							<i class="icon-instagram"></i>
+						</a>
+						<a href="https://www.youtube.com/remoteagency" target="_blank" rel="noreferrer" class="social-icon si-small si-borderless si-youtube" onclick="ga('send', 'event', 'social', 'youtube-sum')">
+							<i class="icon-youtube"></i>
+							<i class="icon-youtube"></i>
+						</a>
+						<a href="https://www.linkedin.com/company/remoteagency" target="_blank" rel="noreferrer" class="social-icon si-small si-borderless si-linkedin" onclick="ga('send', 'event', 'social', 'linkedin-sum')">
+							<i class="icon-linkedin"></i>
+							<i class="icon-linkedin"></i>
+						</a>
+						<a href="https://remoteagency.us18.list-manage.com/subscribe?u=2c84607c8fa3397afd2d88c54&amp;id=50c800f9ee" target="_blank" rel="noreferrer" class="social-icon si-small si-borderless si-news" onclick="ga('send', 'event', 'sign-up', 'news-mid')">
+							<i class="icon-news"></i>
+							<i class="icon-news"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>		
+
+		<!-- Cookie Notification Bar
+		============================================= -->
+
+		<script src="//www.freeprivacypolicy.com/public/cookie-consent/3.1.0/cookie-consent.js"></script>
+		<script>
+		document.addEventListener('DOMContentLoaded', function () {
+		cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"dark","language":"en","website_name":"www.remoteagency.com","cookies_policy_url":"https://www.remoteagency.com/pdf/digidipity-privacy.pdf"});
+		});
+		</script>
+
+		<!-- Google Analytics -->
+		<script type="text/plain" cookie-consent="tracking" defer src="https://www.googletagmanager.com/gtag/js?id=UA-120466099-1"></script>
+		<script type="text/plain" cookie-consent="tracking">
+			var gaProperty = 'UA-120466099-1';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if (document.cookie.indexOf(disableStr + '=true') > -1) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+				alert('Tracking has been disabled.');
+			}
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-120466099-1', 'auto');
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+
+	</div>
+
+</body>
+</html>
